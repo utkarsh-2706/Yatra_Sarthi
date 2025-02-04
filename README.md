@@ -79,10 +79,11 @@ npm start
 ```http
 
 GET /api/recommendations?userId=123
-Response
-```
 
+```
+Response
 ```json
+
 
 {
   "destinations": [
@@ -91,13 +92,13 @@ Response
   ]
 }
 ```
-##🔹 Book a Trip
+## Book a Trip
 ```http
 
 POST /api/book
-Request Body
-```
 
+```
+Request Body
 ```json
 {
   "userId": "123",
