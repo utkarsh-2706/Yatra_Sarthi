@@ -16,8 +16,9 @@ An **AI-driven travel assistant** built with **TypeScript**, leveraging **GROQ A
 
 ## 📥 Download & Live Prototype  
 
-- 📲 **Download App**: [Click Here to Download](#https://appdata.freewebsitetoapp.co.in/app-data/free-apps/15317157198/GLLUxkrJJx/app-debug.apk)  
-- 🎨 **Live Prototype**: [View Prototype](#https://chipper-kelpie-473620.netlify.app/)  
+- 📲 **Download App**: [Click Here to Download](https://appdata.freewebsitetoapp.co.in/app-data/free-apps/15317157198/GLLUxkrJJx/app-debug.apk)  
+- 🎨 **Live Prototype**: [View Prototype](https://chipper-kelpie-473620.netlify.app/)  
+
 
 ---
 
