@@ -46,20 +46,20 @@ Follow these steps to set up and run the project locally.
 git clone https://github.com/your-repo-name.git  
 cd your-repo-name
  ```
-###2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 ```sh
 
 npm install
 ```
 
-###3️⃣ Set Up Environment Variables
+### 3️⃣ Set Up Environment Variables
 Create a .env file in the root directory and add:
 
 ```env
  
 GROQ_API_KEY=your_groq_api_key
 ```
-###4️⃣ Run the Development Server
+### 4️⃣ Run the Development Server
 ```sh
 
 npm run dev
@@ -69,7 +69,7 @@ npm run dev
 
 npm run build
 ```
-###6️⃣ Start the Application
+### 6️⃣ Start the Application
 ```sh
 
 npm start
