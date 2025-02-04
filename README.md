@@ -65,7 +65,7 @@ GROQ_API_KEY=your_groq_api_key
 
 npm run dev
 ```
-##5️⃣ Build for Production
+### 5️⃣ Build for Production
 ```sh
 
 npm run build
