@@ -16,8 +16,8 @@ An **AI-driven travel assistant** built with **TypeScript**, leveraging **GROQ A
 
 ## 📥 Download & Live Prototype  
 
-- 📲 **Download App**: [Click Here to Download](#)  
-- 🎨 **Live Prototype**: [View Prototype](#)  
+- 📲 **Download App**: [Click Here to Download](#https://appdata.freewebsitetoapp.co.in/app-data/free-apps/15317157198/GLLUxkrJJx/app-debug.apk)  
+- 🎨 **Live Prototype**: [View Prototype](#https://chipper-kelpie-473620.netlify.app/)  
 
 ---
 
@@ -25,7 +25,6 @@ An **AI-driven travel assistant** built with **TypeScript**, leveraging **GROQ A
 
 - **Frontend**: React (TypeScript), TailwindCSS  
 - **Backend**: Node.js (TypeScript), Express.js  
-- **Database**: MongoDB / Firebase  
 - **AI/ML**: **GROQ API**  
 - **Cloud & DevOps**: AWS / Firebase Hosting  
 - **APIs**: GROQ API, Google Places API  
@@ -39,8 +38,7 @@ Follow these steps to set up and run the project locally.
 ### 🔹 Prerequisites  
 
 - **Node.js** (>=16.0)  
-- **Git**  
-- **MongoDB or Firebase** (for database)  
+- **Git**   
 - **GROQ API Key**  
 
 ### 1️⃣ Clone the Repository  
